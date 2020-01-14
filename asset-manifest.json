@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/caption01/junior-to-senior-rotofriend/static/css/main.040cb408.chunk.css",
+    "main.js": "/caption01/junior-to-senior-rotofriend/static/js/main.5d3e1d3f.chunk.js",
+    "main.js.map": "/caption01/junior-to-senior-rotofriend/static/js/main.5d3e1d3f.chunk.js.map",
+    "runtime-main.js": "/caption01/junior-to-senior-rotofriend/static/js/runtime-main.22b52ec8.js",
+    "runtime-main.js.map": "/caption01/junior-to-senior-rotofriend/static/js/runtime-main.22b52ec8.js.map",
+    "static/css/2.eb45ad44.chunk.css": "/caption01/junior-to-senior-rotofriend/static/css/2.eb45ad44.chunk.css",
+    "static/js/2.f9b2e496.chunk.js": "/caption01/junior-to-senior-rotofriend/static/js/2.f9b2e496.chunk.js",
+    "static/js/2.f9b2e496.chunk.js.map": "/caption01/junior-to-senior-rotofriend/static/js/2.f9b2e496.chunk.js.map",
+    "index.html": "/caption01/junior-to-senior-rotofriend/index.html",
+    "precache-manifest.a5d4026c79a2bb35a47eb02dbfa14bef.js": "/caption01/junior-to-senior-rotofriend/precache-manifest.a5d4026c79a2bb35a47eb02dbfa14bef.js",
+    "service-worker.js": "/caption01/junior-to-senior-rotofriend/service-worker.js",
+    "static/css/2.eb45ad44.chunk.css.map": "/caption01/junior-to-senior-rotofriend/static/css/2.eb45ad44.chunk.css.map",
+    "static/css/main.040cb408.chunk.css.map": "/caption01/junior-to-senior-rotofriend/static/css/main.040cb408.chunk.css.map",
+    "static/media/App.css": "/caption01/junior-to-senior-rotofriend/static/media/SEGA.12a3db8b.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.22b52ec8.js",
+    "static/css/2.eb45ad44.chunk.css",
+    "static/js/2.f9b2e496.chunk.js",
+    "static/css/main.040cb408.chunk.css",
+    "static/js/main.5d3e1d3f.chunk.js"
+  ]
+}
